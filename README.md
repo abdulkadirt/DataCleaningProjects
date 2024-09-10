@@ -11,6 +11,6 @@ After looking at the data for the first time, you should ask yourself a few ques
 * Should I transform any variables?
 * Are there NA values, outliers or other strange values?
 * Should I create new variables?
-* 
+* Özellşklerşn veri tipleri , tuttukları değerleri için uygun mu ?
 Data Cleaning aşaması bu soruların cevaplarından olşuyor zaten.
 ------------------------------------------------------------------------------------------------------------------------
