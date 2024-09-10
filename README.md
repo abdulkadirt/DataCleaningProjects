@@ -2,3 +2,14 @@ https://www.espncricinfo.com/records/highest-career-batting-average-282910 adres
 Girdi "Cricket_test_data.csv" dosyası.
 Çıktı ise "Clean_Cricket_data.csv" dosyası.
 Bu uygulama pandas kütüphanesinin bir alıştırması olarak düşünülebilir. 
+
+------------------------------------------------------------------------------------------------------------------------
+# bir veri setine ilk defa göz attıktan sonra ne yapmalıyız ? 
+After looking at the data for the first time, you should ask yourself a few questions:
+
+Do I need all of the variables?
+Should I transform any variables?
+Are there NA values, outliers or other strange values?
+Should I create new variables?
+For the rest of this lesson we will address each of these questions in the context of this data set.
+------------------------------------------------------------------------------------------------------------------------
